@@ -1,0 +1,9 @@
+{
+  "symbol": "GBPUSD",
+  "timeframe": "1w",
+  "chunkBy": "year",
+  "chunks": [],
+  "firstTime": null,
+  "lastTime": null,
+  "totalCandles": 0
+}
