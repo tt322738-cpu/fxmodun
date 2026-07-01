@@ -1,0 +1,1 @@
+{"symbol":"US30","timeframe":"1d","chunkBy":"month","chunks":[{"from":1527811200,"to":1782864000,"file":"all.json"}],"firstTime":1527811200,"lastTime":1782864000,"totalCandles":2518}
